@@ -8,8 +8,6 @@
   <br><img src = "https://img.shields.io/github/followers/clvsus?color=Green&label=Follower&logo=Github%20takip%C3%A7isi&style=for-the-badge">
 <img src = "https://img.shields.io/github/stars/clvsus?label=Stars&style=for-the-badge"></br></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clvsus&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
- </p>
 <br/>
 <p align="center">
   
