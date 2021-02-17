@@ -1,15 +1,37 @@
+### Merhaba 👋
 
-<h1 align="center">Welcome To My Profile 👋</h1>
-<p align="center">
-  <a href="https://discord.com/users/347092047791915019" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/dtliybbyn89l5nzwjybcnihpl" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://www.youtube.com/clasus/" target"blank_"><img src="https://img.shields.io/badge/YOUTUBE%20-DC3175.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<p align="center"> 
+
+
+### Spotify Playing 🎧
+
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/dtliybbyn89l5nzwjybcnihpl)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalTaner&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
-<br/>
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=clvsus&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="250px" alt="stats" />
-</p>
+
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+<br />
+
+
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<br />
+<br />
+
+<details>
+  <summary>GitHub Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Chris0666&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+</details>
+
+[youtube]: https://www.youtube.com/clasus
+[discord]: https://discord.com/users/347092047791915019
