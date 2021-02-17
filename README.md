@@ -5,8 +5,8 @@
   <a href="https://open.spotify.com/user/dtliybbyn89l5nzwjybcnihpl" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.youtube.com/clasus/" target"blank_"><img src="https://img.shields.io/badge/YOUTUBE%20-DC3175.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <p align="center"> 
-  <br><img src = "https://img.shields.io/github/followers/clvsus?color=Green&label=Follower&logo=Github%20takip%C3%A7isi&style=for-the-badge">
-<img src = "https://img.shields.io/github/stars/clvsus?label=Stars&style=for-the-badge"></br></p>
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/187dzy4syuhmqhv0sqlal9bj3?si=6TIwpEVLQQG7gLdmkuFakg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalTaner&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
 <br/>
