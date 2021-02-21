@@ -29,7 +29,7 @@
 
 <details>
   <summary>GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Chris0666&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=berkegokce&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </details>
 
 [youtube]: https://www.youtube.com/clasus
