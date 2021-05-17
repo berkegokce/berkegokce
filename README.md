@@ -2,10 +2,8 @@
 <h1 align="center">Hi 👋, I'm Clasus c:</h1>
 <h3 align="center">I'm a self taught JS developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkegokce&label=Profile%20views&color=0e75b6&style=flat" alt="lyertia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkegokce&label=Profile%20views&color=0e75b6&style=flat" alt="berkegokce" /> </p>
 
-
-- 🔭 I’m currently working on [Lyessa](https://lyessa.live)
 
 - 🌱 I’m currently learning **JS, PHP, HTML**
 
