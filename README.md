@@ -1,9 +1,13 @@
-![](https://komarev.com/ghpvc/?username=berkegokce)
+## Selam <img src="https://cdn.discordapp.com/emojis/821902374531760129.gif?v=1" width="30px">
+
 
 One day I started learning software as an aficionado and things have happened for as long as I can remember.
 
 - Discord: [@biaxe](https://discord.com/users/347092047791915019)
 - Instagram: [@berkekocvk](https://instagram.com/berkekocvk)
+
+<img src="https://komarev.com/ghpvc/?username=berkegokce&label=Ziyaretçi%20Sayısı&color=3bb94e" alt="berkegokce" />
+
 
 <a href="https://github.com/berkegokce">
   <img src="https://github-readme-stats.vercel.app/api?username=berkegokce&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
