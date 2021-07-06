@@ -1,7 +1,5 @@
-## Selam <img src="https://cdn.discordapp.com/emojis/821902374531760129.gif?v=1" width="30px">
+## Herkese Selam <img src="https://cdn.discordapp.com/emojis/821902374531760129.gif?v=1" width="30px">
 
-
-One day I started learning software as an aficionado and things have happened for as long as I can remember.
 
 - Discord: [@biaxe](https://discord.com/users/347092047791915019)
 - Instagram: [@berkekocvk](https://instagram.com/berkekocvk)
